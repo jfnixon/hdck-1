@@ -31,7 +31,6 @@
 #include <assert.h>
 #include "block_info.h"
 
-
 /**
  * reset the block_info struct
  * does not reset number of block errors!
